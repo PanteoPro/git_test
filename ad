@@ -1,0 +1,68 @@
+[33mcommit bcaf1b33b60070e4dc4d629a5abda61a2232630e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kostya Griva <panteopro@gmail.com>
+Date:   Tue Mar 3 01:03:52 2020 +0300
+
+    ReChange
+
+[33mcommit cb7237636f3f789beb9cd00ea5abc0a741ae1279[m
+Author: PanteoPro <36422045+PanteoPro@users.noreply.github.com>
+Date:   Tue Mar 3 00:53:20 2020 +0300
+
+    Update README.md
+
+[33mcommit e152b639eed13df7e27a1d6fc4de7f5a19ffccc4[m
+Author: Kostya Griva <panteopro@gmail.com>
+Date:   Tue Mar 3 00:33:03 2020 +0300
+
+    Make 1 stage
+
+[33mcommit ef3aef5266d1162201162487721a4dfe2f9a1a01[m
+Author: Kostya Griva <panteopro@gmail.com>
+Date:   Tue Mar 3 00:07:10 2020 +0300
+
+    Add json
+
+[33mcommit 50b206cba9c909b0879c9e6fafd35a61660682fd[m
+Author: Kostya Griva <panteopro@gmail.com>
+Date:   Tue Mar 3 00:05:52 2020 +0300
+
+    New file index.htlm
+
+[33mcommit c04b9fd3dffce4b5385d461bbf4cbf00c28fd5a8[m
+Author: Kostya Griva <panteopro@gmail.com>
+Date:   Mon Mar 2 23:52:09 2020 +0300
+
+    Коммит из vs code
+
+[33mcommit 32efe8c505141415acb939ccbcd88efd292216a6[m
+Merge: 799310e 324b861
+Author: PanteoPro <36422045+PanteoPro@users.noreply.github.com>
+Date:   Mon Mar 2 23:16:06 2020 +0300
+
+    Merge pull request #1 from PanteoPro/edit_readme
+    
+    Добавили еще одну строчку
+
+[33mcommit 324b861406e0e9d78d202ab7deb1aa3d504e9634[m[33m ([m[1;31morigin/edit_readme[m[33m)[m
+Author: Kostya Griva <panteopro@gmail.com>
+Date:   Mon Mar 2 23:09:59 2020 +0300
+
+    Добавили еще одну строчку
+
+[33mcommit 799310eaede0250c9efdc694ab9ef2adef7da784[m
+Author: Kostya Griva <panteopro@gmail.com>
+Date:   Mon Mar 2 23:02:20 2020 +0300
+
+    Добавил строчку в README.md
+
+[33mcommit b2e1653a78cea15de4627a933dd345d8b68a731c[m
+Author: PanteoPro <36422045+PanteoPro@users.noreply.github.com>
+Date:   Mon Mar 2 22:40:31 2020 +0300
+
+    Добавили ограничение файлов windows
+
+[33mcommit 552b353683a8d9a7e792ee650694e25a47365859[m
+Author: PanteoPro <36422045+PanteoPro@users.noreply.github.com>
+Date:   Mon Mar 2 22:39:22 2020 +0300
+
+    Initial commit
